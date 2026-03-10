@@ -66,7 +66,7 @@ Suport tècnic a usuaris, manteniment d'equips i resolució d'incidències en xa
 |---|---|
 | Castellà | Natiu |
 | Català | Natiu |
-| Anglès | B2 (Avançat) |
+| Anglès | B2 |
 
 ---
 
@@ -76,15 +76,13 @@ Suport tècnic a usuaris, manteniment d'equips i resolució d'incidències en xa
 |---|---|
 | **GitHub** | [github.com/miguelIH/CV](https://github.com/miguelIH/CV) |
 | **LinkedIn** | [linkedin.com/in/miguel-ih](https://www.linkedin.com/in/miguel-ih) |
-| **Portfolio web (IPOP)** | GitHub Pages — aquest site |
+| **Portfolio web (IPOP)** | aquest site |
 
 ---
 
 ## 2. Projecció Professional
 
 ### 2.a. Especialització professional: Administrador de Sistemes Linux/Windows
-
-L'especialització escollida és la d'**Administrador de Sistemes**, amb enfocament en entorns Linux i Windows Server. Aquest rol implica:
 
 **Tasques principals:**
 - Instal·lació, configuració i manteniment de servidors Linux (Debian, Ubuntu Server, CentOS) i Windows Server.
@@ -105,8 +103,6 @@ L'especialització escollida és la d'**Administrador de Sistemes**, amb enfocam
 
 ### 2.b. Característiques de les empreses objectiu
 
-L'objectiu és incorporar-se a **qualsevol tipus d'empresa** que requereixi perfils de sistemes, des de pimes fins a grans corporacions. Les tipologies d'empresa més habituals per a aquest perfil són:
-
 | Tipus d'empresa | Exemples de rol |
 |---|---|
 | **MSP (Managed Service Providers)** | Tècnic de sistemes, suport IT a clients |
@@ -123,8 +119,6 @@ L'objectiu és incorporar-se a **qualsevol tipus d'empresa** que requereixi perf
 ---
 
 ### 2.c. Itinerari formatiu
-
-Per consolidar el perfil d'Administrador de Sistemes i accedir a llocs de treball de major responsabilitat, l'itinerari formatiu proposat és el següent:
 
 | Fase | Formació / Acció | Termini estimat |
 |---|---|---|
@@ -151,7 +145,7 @@ Per consolidar el perfil d'Administrador de Sistemes i accedir a llocs de trebal
 4. **Xarxa de contactes**: Aprofitar els contactes generats durant les pràctiques a Portugal i les empreses locals de Blanes/Girona.
 5. **Aquest portfolio IPOP (GitHub Pages)**: Utilitzar aquest site com a targeta de presentació professional accessible a qualsevol empresa.
 
-#### Com "vendre'm" — punts forts a destacar
+#### Els meus punts forts
 
 - **Experiència internacional**: Les pràctiques a Portugal em diferencien de la majoria de candidats amb el mateix títol. Demostra iniciativa, adaptabilitat i nivell d'anglès real.
 - **Perfil tècnic complet**: Cobreixo xarxes, sistemes, virtualització i programació, cosa que em fa versàtil per a diferents rols IT.
@@ -184,5 +178,3 @@ Per consolidar el perfil d'Administrador de Sistemes i accedir a llocs de trebal
 | 📍 **Ubicació** | Blanes, Girona |
 
 ---
-
-*Document generat com a part de l'IPOP del cicle CFGS ASIX · Institut Sa Palomera · Curs 2025–2026*
