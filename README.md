@@ -7,7 +7,7 @@ Estudiant de CFGS ASIX · Institut Sa Palomera, Blanes · Curs 2025–2026
 
 ## Presentació
 
-Em dic Miguel Ibañez Hernando, tinc 20 anys i soc estudiant del Cicle Formatiu de Grau Superior en Administració de Sistemes Informàtics en Xarxa (ASIX) a l'Institut Sa Palomera de Blanes, on prevejo graduar-me el 2026. Prèviament vaig cursar el CFGM en Sistemes Microinformàtics i Xarxes (SMX) al mateix centre, la qual cosa m'ha permès construir una base tècnica sòlida i progressiva en l'àmbit de les xarxes i els sistemes informàtics.
+Em dic Miguel Ibañez Hernando, tinc 20 anys i soc estudiant del Cicle Formatiu de Grau Superior en Administració de Sistemes Informàtics en Xarxa (ASIX) a l'Institut Sa Palomera de Blanes, on vull graduar-me el 2026. Prèviament vaig cursar el CFGM en Sistemes Microinformàtics i Xarxes (SMX) al mateix centre, la qual cosa m'ha permès construir una base tècnica sòlida i progressiva en l'àmbit de les xarxes i els sistemes informàtics.
 
 El meu interès professional se centra en l'**administració de sistemes Linux i Windows**, la gestió d'infraestructures de xarxa i la virtualització. Em defineixo com un professional proactiu, amb capacitat d'adaptació a entorns canviants i amb voluntat de créixer contínuament en el sector IT.
 
@@ -41,14 +41,6 @@ Al llarg dels darrers anys he acumulat experiències professionals en àmbits di
 *Març – Maig 2025*
 Durant dos mesos vaig realitzar pràctiques d'empresa en un entorn IT internacional, adquirint experiència en sistemes reals i millorant el meu nivell d'anglès professional en un context laboral exigent. Aquesta estada, emmarcada en el programa de mobilitat europea, representa una de les experiències més enriquidores del meu recorregut formatiu.
 
-**Cambrer de temporada** | Hotel Spa Pimar
-*Juny – Setembre 2025*
-Atenció al client en entorn hoteler d'alta demanda. Aquesta experiència m'ha permès desenvolupar habilitats de comunicació, treball en equip i gestió de la pressió.
-
-**Servei d'atenció al client** | Telepizza, Blanes
-*Juny – Setembre 2024*
-Treball en equip en un entorn de ritme elevat. Vaig millorar la meva gestió del temps, la resolució ràpida d'incidències i l'atenció al client.
-
 **Pràctiques de SMX (6 mesos)** | Institut Manyanet, Blanes
 *Novembre 2022 – Abril 2023*
 Suport tècnic a usuaris, manteniment d'equips informàtics i resolució d'incidències en xarxa local. Primera experiència professional en un entorn IT real.
@@ -76,7 +68,6 @@ Les competències tècniques que he adquirit al llarg de la meva formació i exp
 Més enllà de les competències tècniques, considero que el meu perfil professional es caracteritza per una sèrie de competències transversals que m'aporten valor diferencial com a futur professional:
 
 - **Adaptabilitat internacional i intercultural**: La meva estada de pràctiques a Portugal, treballant en anglès en un entorn IT real, demostra la meva capacitat d'adaptar-me a contextos professionals nous i exigents.
-- **Capacitat de treball sota pressió**: Les experiències en hostaleria i atenció al client m'han entrenat per mantenir la qualitat del treball en entorns d'alta demanda.
 - **Comunicació i resolució d'incidències**: He desenvolupat habilitats per comunicar-me eficaçment amb usuaris no tècnics i resoldre problemes de manera àgil.
 - **Proactivitat i autoaprenentatge**: Mantinc un repositori GitHub propi on documento projectes tècnics, cosa que reflecteix la meva iniciativa per anar més enllà del currículum formal.
 - **Treball en equip**: He col·laborat en equips tant en entorns educatius com professionals, adaptant-me als rols que el grup necessitava en cada moment.
@@ -204,7 +195,7 @@ A continuació presento el pla d'actuació concret amb les tasques que duré a t
 
 | Termini | Tasques previstes |
 |---|---|
-| **Immediat** *(ara – juny 2026)* | Finalitzar el CFGS ASIX amb bon rendiment acadèmic. Completar i publicar el portfolio IPOP a GitHub Pages. Actualitzar el perfil de LinkedIn amb les pràctiques de Portugal, els projectes del CFGS i el link al portfolio. Iniciar la recerca activa de feina per a posicions júnior. |
+| **Immediat** *(ara – juny 2026)* | Finalitzar el CFGS ASIX. Completar i publicar el portfolio IPOP a GitHub Pages. Actualitzar el perfil de LinkedIn amb les pràctiques de Portugal, els projectes del CFGS i el link al portfolio. Iniciar la recerca activa de feina per a posicions júnior. |
 | **Curt termini** *(juny – desembre 2026)* | Incorporar-me al mercat laboral com a tècnic de sistemes júnior. Iniciar la preparació de la certificació CCNA en paral·lel a la feina. Ampliar la xarxa de contactes professionals a LinkedIn. |
 | **Mig termini** *(2027)* | Consolidar-me en el primer lloc de treball i adquirir responsabilitats creixents. Obtenir la certificació CCNA i iniciar la preparació de LPIC-1 o CompTIA Linux+. |
 | **Llarg termini** *(2028 i més)* | Obtenir les certificacions cloud (AWS/Azure) i de seguretat (CompTIA Security+). Progressar cap a rols de major responsabilitat (administrador de sistemes sènior, arquitecte d'infraestructura o especialització en cloud/DevOps). |
@@ -217,12 +208,9 @@ Per a qualsevol consulta professional o oportunitat laboral, podeu contactar-me 
 
 | Canal | Informació |
 |---|---|
-| 📧 **Correu electrònic** | miquel.ih.13@gmail.com |
-| 📱 **Telèfon** | +34 690 846 637 |
-| 💼 **LinkedIn** | [linkedin.com/in/miguel-ih](https://www.linkedin.com/in/miguel-ih) |
-| 💻 **GitHub** | [github.com/miguelIH/CV](https://github.com/miguelIH/CV) |
-| 📍 **Ubicació** | Blanes, Girona |
+| **Correu electrònic** | miquel.ih.13@gmail.com |
+| **LinkedIn** | [linkedin.com/in/miguel-ih](https://www.linkedin.com/in/miguel-ih) |
+| **GitHub** | [github.com/miguelIH/CV](https://github.com/miguelIH/CV) |
+| **Ubicació** | Blanes, Girona |
 
 ---
-
-*Document elaborat com a part de l'Informe Personal d'Orientació Professional (IPOP) del cicle CFGS ASIX · Institut Sa Palomera · Curs 2025–2026*
