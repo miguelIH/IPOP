@@ -90,7 +90,7 @@ Més enllà de les competències tècniques, considero que el meu perfil profess
 |---|---|---|
 | Castellà | Natiu | Llengua materna |
 | Català | Natiu | Llengua d'ús habitual acadèmic |
-| Anglès | B2 (Avançat) | Utilitzat professionalment durant les pràctiques a Portugal |
+| Anglès | B2 | Utilitzat professionalment durant les pràctiques a Portugal |
 
 ---
 
